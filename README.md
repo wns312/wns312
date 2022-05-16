@@ -4,15 +4,13 @@
 ---
 
 <div align="center">
-  
-
-  
 <img src="http://mazandi.herokuapp.com/api?handle=wns312&theme=warm"/></a>
 
 <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=wns312"/></a>
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwns312&count_bg=%234169E1&title_bg=%236C6C6C&icon=github.svg&icon_color=%23FFFFFF&title=Github&edge_flat=true"/></a>
 <br /><br />
 </div>
+
 
 ### What I've used
 
@@ -35,6 +33,15 @@
 
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/></a> <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira Software&logoColor=white"/></a> <img src="https://img.shields.io/badge/Asana-273347?style=flat-square&logo=Asana&logoColor=white"/></a>
 
-  
+### Repo
 
+---
+
+  <br />
+
+<div align="center">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wns312&repo=TIL)](https://github.com/wns312/TIL) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Coffee-Station&repo=coffee-station)](https://github.com/Coffee-Station/github-readme-stats)
+  
+</div>
 
