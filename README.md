@@ -41,6 +41,9 @@
 <div align="center">
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wns312&repo=TIL)](https://github.com/wns312/TIL) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Coffee-Station&repo=coffee-station)](https://github.com/Coffee-Station/github-readme-stats)
-  
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wns312&repo=R-U-Getting-It)](https://github.com/wns312/R-U-Getting-It) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wns312&wns312)](https://github.com/wns312/wns312) 
+ 
 </div>
 
