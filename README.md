@@ -37,7 +37,6 @@
 
 ---
 
-  <br />
 
 <div align="center">
 
