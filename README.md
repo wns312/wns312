@@ -1,12 +1,13 @@
 
 <br />
 
+### 🐵 Joon Kim's Github 🐵
+  
+---
 
 <div align="center">
   
-### 🐵 Joon Kim 🐵
-  
----
+
   
 <img src="http://mazandi.herokuapp.com/api?handle=wns312&theme=warm"/></a>
 
@@ -15,7 +16,7 @@
 <br /><br />
 </div>
 
-### Tech What I've used
+### What I've used
 
 
 
