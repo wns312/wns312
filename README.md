@@ -5,7 +5,7 @@
 
 <div align="center">
 <img src="http://mazandi.herokuapp.com/api?handle=wns312&theme=warm"/></a>
-
+<br /><br />
 <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=wns312"/></a>
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwns312&count_bg=%234169E1&title_bg=%236C6C6C&icon=github.svg&icon_color=%23FFFFFF&title=Github&edge_flat=true"/></a>
 <br /><br />
